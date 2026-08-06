@@ -4,7 +4,10 @@
 
 I develop electronic and embedded products from user and client needs through requirements, system architecture, circuit and PCB design, firmware, hardware–software integration, prototype bring-up, verification and product handover. My experience spans commercial electronics, healthcare technology and multi-sensor systems.
 
-I combine hands-on hardware development with signal processing, embedded software and deployment-ready data pipelines. I work comfortably in client-facing, multidisciplinary environments—translating technical and user requirements into practical designs, communicating trade-offs clearly, and carrying prototypes through structured testing and validation.
+I combine hands-on electronics and embedded development with signal processing and end-to-end data and model-development pipelines. From sensor acquisition, calibration, noise filtering, and feature engineering through model development, validation and deployment-ready implementation. I create interpretable, application-focused outputs that connect model results and influential features to real system behaviour, enabling engineering teams, clients and domain stakeholders to evaluate performance, understand limitations and make informed product decisions.
+
+I work confidently in client-facing, multidisciplinary teams, translating technical and user needs into practical system requirements, communicating hardware, software and model trade-offs clearly, and progressing integrated prototypes through structured verification and validation.
+
 
 ## Core engineering capabilities
 
