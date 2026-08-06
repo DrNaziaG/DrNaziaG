@@ -1,6 +1,6 @@
 # Dr Nazia Gillani
 
-**R&D Electronics & Embedded Systems Engineer | Concept-to-Product Development | Prototyping, Verification & Validation | Sensor Systems & Signal Processing | Edge & Explainable AI**
+**Electronics & Embedded Systems Engineer | Concept-to-Product Development | Prototyping, Verification & Validation | Sensor Systems & Signal Processing | Edge & Explainable AI**
 
 I develop electronic and embedded products from user and client needs through requirements, system architecture, circuit and PCB design, firmware, hardware–software integration, prototype bring-up, verification and product handover. My experience spans commercial electronics, robotics, healthcare technology and multi-sensor systems.
 
