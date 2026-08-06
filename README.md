@@ -2,9 +2,9 @@
 
 **Electronics & Embedded Systems Engineer | Concept-to-Product Development | Prototyping, Verification & Validation | Sensor Systems & Signal Processing | Edge & Explainable AI**
 
-I develop electronic and embedded products from user and client needs through requirements, system architecture, circuit and PCB design, firmware, hardware–software integration, prototype bring-up, verification and product handover. My experience spans commercial electronics, robotics, healthcare technology and multi-sensor systems.
+I develop electronic and embedded products from user and client needs through requirements, system architecture, circuit and PCB design, firmware, hardware–software integration, prototype bring-up, verification and product handover. My experience spans commercial electronics, healthcare technology and multi-sensor systems.
 
-I combine hands-on hardware development with embedded software, signal processing and deployment-oriented data pipelines. I work comfortably in client-facing, multidisciplinary environments—translating technical and user requirements into practical designs, communicating trade-offs clearly, and carrying prototypes through structured testing and validation.
+I combine hands-on hardware development with signal processing, embedded software and deployment-ready data pipelines. I work comfortably in client-facing, multidisciplinary environments—translating technical and user requirements into practical designs, communicating trade-offs clearly, and carrying prototypes through structured testing and validation.
 
 ## Core engineering capabilities
 
